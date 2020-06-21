@@ -1,0 +1,8 @@
+title: Android Studio Help
+description: "Troubleshooting and installation guide for Android Studio "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
